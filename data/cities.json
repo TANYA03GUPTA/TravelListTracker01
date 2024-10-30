@@ -1,0 +1,256 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": 9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": 3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "c529",
+      "cityName": "Chandigarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-27T09:38:47.174Z",
+      "notes": "",
+      "position": {
+        "lat": "30.6939238",
+        "lng": "76.7649683"
+      }
+    },
+    {
+      "id": "422a",
+      "cityName": "Zagreb",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2022-03-18T10:51:21.000Z",
+      "notes": "It was nice food good weather and happy memories",
+      "position": {
+        "lat": "45.79816953017265",
+        "lng": "16.056518554687504"
+      }
+    },
+    {
+      "id": "5a45",
+      "cityName": "Herlen",
+      "country": "Mongolia",
+      "emoji": "🇲🇳",
+      "date": "2023-10-16T12:18:52.000Z",
+      "notes": "yes good",
+      "position": {
+        "lat": "47.364873807434094",
+        "lng": "110.76965332031251"
+      }
+    },
+    {
+      "id": "a463",
+      "cityName": "Chungcheongnam-do",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2024-03-27T18:23:16.944Z",
+      "notes": "",
+      "position": {
+        "lat": "36.73888412439431",
+        "lng": "126.82617187500001"
+      }
+    },
+    {
+      "id": "b04b",
+      "cityName": "Manila",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2024-03-27T18:23:27.648Z",
+      "notes": "",
+      "position": {
+        "lat": "14.477234210156519",
+        "lng": "121.00341796875001"
+      }
+    },
+    {
+      "id": "4308",
+      "cityName": "Zevio",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-03-27T18:44:33.953Z",
+      "notes": "",
+      "position": {
+        "lat": "45.38301927899065",
+        "lng": "11.0906982421875"
+      }
+    },
+    {
+      "id": "ab32",
+      "cityName": "Krakow",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-03-27T18:44:54.299Z",
+      "notes": "",
+      "position": {
+        "lat": "50.08886893382967",
+        "lng": "20.126953125000004"
+      }
+    },
+    {
+      "id": "a196",
+      "cityName": "St. John's",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-03-27T18:48:49.027Z",
+      "notes": "",
+      "position": {
+        "lat": "47.46523622438362",
+        "lng": "-52.77832031250001"
+      }
+    },
+    {
+      "id": "06ac",
+      "cityName": "Patiala",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-11T09:32:27.336Z",
+      "notes": "",
+      "position": {
+        "lat": "30.38709188778112",
+        "lng": "76.45935058593751"
+      }
+    },
+    {
+      "id": "050f",
+      "cityName": "Magtymguly",
+      "country": "Turkmenistan",
+      "emoji": "🇹🇲",
+      "date": "2024-06-11T09:32:38.494Z",
+      "notes": "",
+      "position": {
+        "lat": "38.41916639395372",
+        "lng": "56.40380859375001"
+      }
+    },
+    {
+      "id": "67f2",
+      "cityName": "Tehri",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-11T09:51:39.738Z",
+      "notes": "",
+      "position": {
+        "lat": "30.384695312023236",
+        "lng": "78.39843750000001"
+      }
+    },
+    {
+      "id": "190d",
+      "cityName": "Heremence",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-06-21T06:34:20.763Z",
+      "notes": "",
+      "position": {
+        "lat": "46.0465484463062",
+        "lng": "7.399291992187501"
+      }
+    },
+    {
+      "id": "129d",
+      "cityName": "Rivolta d'Adda",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-10-30T07:35:34.040Z",
+      "notes": "",
+      "position": {
+        "lat": "45.42929873257377",
+        "lng": "9.492187500000002"
+      }
+    },
+    {
+      "id": "7b92",
+      "cityName": "Breviandes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-30T07:35:51.001Z",
+      "notes": "",
+      "position": {
+        "lat": "48.26125565204099",
+        "lng": "4.119873046875001"
+      }
+    },
+    {
+      "id": "3705",
+      "cityName": "Modling",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-10-30T07:35:58.691Z",
+      "notes": "It was a great trip🌷🌷🌷",
+      "position": {
+        "lat": "48.09275716032736",
+        "lng": "16.281738281250004"
+      }
+    },
+    {
+      "id": "f546",
+      "cityName": "Trecate",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-10-30T09:12:53.235Z",
+      "notes": "good",
+      "position": {
+        "lat": "45.42929873257377",
+        "lng": "8.723144531250002"
+      }
+    },
+    {
+      "id": "53ae",
+      "cityName": "Chandler",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-10-30T09:13:39.463Z",
+      "notes": "Cold as ice",
+      "position": {
+        "lat": "48.34529727896014",
+        "lng": "-64.66003417968751"
+      }
+    },
+    {
+      "id": "8712",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-30T09:22:37.293Z",
+      "notes": "Best place to be on Dates",
+      "position": {
+        "lat": "48.82494916931076",
+        "lng": "2.3675537109375004"
+      }
+    }
+  ]
+}
